@@ -64,7 +64,7 @@ To start:
 ## Contact
 
 Gabriel GUIET-DUPRE - 
-gabriel.guietdupre@ece.edu.fr
+gabriel.guietdupre@edu.ece.fr
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
